@@ -1,2 +1,6 @@
 *.py
 *.txt
+
+# macOS
+.DS_Store
+*.pem
