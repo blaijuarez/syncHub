@@ -1,5 +1,13 @@
+
+# Dev
+.serve
+.env
+*.js
 *.py
 *.txt
+package*.json
+node_modules
+
 
 # macOS
 .DS_Store
