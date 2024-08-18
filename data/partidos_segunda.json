@@ -1,0 +1,3413 @@
+{
+  "jornada-1": [
+    {
+      "id": 93053,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Granada CF - Albacete BP - 1",
+      "slug": "temporada-2024-2025-laliga-hypermotion-granada-cf-albacete-bp-1",
+      "date": "2024-08-15T18:30:00+00:00",
+      "time": "2024-08-15T18:30:00+00:00",
+      "hashtag": "GranadaAlbaceteBP",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "FullTime",
+      "home_team": {
+        "id": 10,
+        "slug": "granada-cf",
+        "name": "Granada Club de F\u00fatbol SAD",
+        "nickname": "Granada CF",
+        "boundname": "Granada CF",
+        "shortname": "GRA",
+        "sprite_status": "created",
+        "shield": {
+          "id": 660604,
+          "url": "https://assets.laliga.com/assets/2023/01/17/medium/f5db12f3a29fdfd14a0d50337016dc95.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 47,
+        "slug": "albacete-bp",
+        "name": "Albacete Balompi\u00e9 SAD",
+        "nickname": "Albacete BP",
+        "boundname": "Albacete BP",
+        "shortname": "ALB",
+        "sprite_status": "created",
+        "shield": {
+          "id": 211,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/albacete.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Nuevo Los C\u00e1rmenes"
+      },
+      "persons_role": [
+        {
+          "person": {
+            "name": "Sa\u00fal Ais Reig",
+            "nickname": "Sa\u00fal Ais Reig",
+            "firstname": "Sa\u00fal",
+            "lastname": "Ais Reig"
+          },
+          "role": {
+            "id": 5,
+            "name": "\u00c1rbitro Principal"
+          }
+        },
+        {
+          "person": {
+            "name": "Rub\u00e9n Campo Hern\u00e1ndez",
+            "nickname": "Rub\u00e9n Campo Hern\u00e1ndez",
+            "firstname": "Rub\u00e9n",
+            "lastname": "Campo Hern\u00e1ndez"
+          },
+          "role": {
+            "id": 6,
+            "name": "\u00c1rbitro Asistente 1"
+          }
+        },
+        {
+          "person": {
+            "name": "David Cant\u00f3n Vitoria",
+            "nickname": "David Cant\u00f3n Vitoria",
+            "firstname": "David",
+            "lastname": "Cant\u00f3n Vitoria"
+          },
+          "role": {
+            "id": 7,
+            "name": "\u00c1rbitro Asistente 2"
+          }
+        },
+        {
+          "person": {
+            "name": "Jorge Tarraga Lajara",
+            "nickname": "Jorge Tarraga Lajara",
+            "firstname": "Jorge",
+            "lastname": "Tarraga Lajara"
+          },
+          "role": {
+            "id": 8,
+            "name": "Cuarto \u00c1rbitro"
+          }
+        },
+        {
+          "person": {
+            "name": "Rub\u00e9n \u00c1valos Barrera",
+            "nickname": "Rub\u00e9n \u00c1valos Barrera",
+            "firstname": "Rub\u00e9n",
+            "lastname": "\u00c1valos Barrera"
+          },
+          "role": {
+            "id": 9,
+            "name": "VAR"
+          }
+        },
+        {
+          "person": {
+            "name": "Iv\u00e1n Caparr\u00f3s Hern\u00e1ndez",
+            "nickname": "Iv\u00e1n Caparr\u00f3s Hern\u00e1ndez",
+            "firstname": "Iv\u00e1n",
+            "lastname": "Caparr\u00f3s Hern\u00e1ndez"
+          },
+          "role": {
+            "id": 10,
+            "name": "AVAR"
+          }
+        }
+      ],
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93056,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - CD Mirand\u00e9s - C\u00f3rdoba CF - 1",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cd-mirandes-cordoba-cf-1",
+      "date": "2024-08-16T17:00:00+00:00",
+      "time": "2024-08-16T17:00:00+00:00",
+      "hashtag": "Mirand\u00e9sC\u00f3rdoba",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FullTime",
+      "home_team": {
+        "id": 34,
+        "slug": "mirandes",
+        "name": "Club Deportivo Mirand\u00e9s SAD",
+        "nickname": "CD Mirand\u00e9s",
+        "boundname": "CD Mirand\u00e9s",
+        "shortname": "MIR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 187,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/mirandes.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 25,
+        "slug": "cordoba-cf",
+        "name": "C\u00f3rdoba Club de F\u00fatbol SAD",
+        "nickname": "C\u00f3rdoba CF",
+        "boundname": "C\u00f3rdoba CF",
+        "shortname": "CCF",
+        "sprite_status": "created",
+        "shield": {
+          "id": 169,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/cordoba.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Municipal de Anduva"
+      },
+      "persons_role": [
+        {
+          "person": {
+            "name": "Miguel Gonz\u00e1lez D\u00edaz",
+            "nickname": "Miguel Gonz\u00e1lez D\u00edaz",
+            "firstname": "Miguel",
+            "lastname": "Gonz\u00e1lez D\u00edaz"
+          },
+          "role": {
+            "id": 5,
+            "name": "\u00c1rbitro Principal"
+          }
+        },
+        {
+          "person": {
+            "name": "Daniel Novoa Hern\u00e1ndez",
+            "nickname": "Daniel Novoa Hern\u00e1ndez",
+            "firstname": "Daniel",
+            "lastname": "Novoa Hern\u00e1ndez"
+          },
+          "role": {
+            "id": 6,
+            "name": "\u00c1rbitro Asistente 1"
+          }
+        },
+        {
+          "person": {
+            "name": "Samuel Sanz Torcal",
+            "nickname": "Sanz Torcal Samuel",
+            "firstname": "Samuel",
+            "lastname": "Sanz Torcal"
+          },
+          "role": {
+            "id": 7,
+            "name": "\u00c1rbitro Asistente 2"
+          }
+        },
+        {
+          "person": {
+            "name": "Pablo Monterrubio Torres",
+            "nickname": "Pablo Monterrubio Torres",
+            "firstname": "Pablo",
+            "lastname": "Monterrubio Torres"
+          },
+          "role": {
+            "id": 8,
+            "name": "Cuarto \u00c1rbitro"
+          }
+        },
+        {
+          "person": {
+            "name": "Jos\u00e9 Antonio L\u00f3pez Toca",
+            "nickname": "Jos\u00e9 Antonio L\u00f3pez Toca",
+            "firstname": "Jos\u00e9 Antonio",
+            "lastname": "L\u00f3pez Toca"
+          },
+          "role": {
+            "id": 9,
+            "name": "VAR"
+          }
+        },
+        {
+          "person": {
+            "name": "Manuel \u00c1ngel P\u00e9rez Hern\u00e1ndez",
+            "nickname": "Manuel \u00c1ngel P\u00e9rez Hern\u00e1ndez",
+            "firstname": "Manuel \u00c1ngel",
+            "lastname": "P\u00e9rez Hern\u00e1ndez"
+          },
+          "role": {
+            "id": 10,
+            "name": "AVAR"
+          }
+        }
+      ],
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93048,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - C\u00e1diz CF - Real Zaragoza - 1",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cadiz-cf-real-zaragoza-1",
+      "date": "2024-08-16T19:30:00+00:00",
+      "time": "2024-08-16T19:30:00+00:00",
+      "hashtag": "C\u00e1dizRealZaragoza",
+      "home_score": 0,
+      "away_score": 4,
+      "status": "FullTime",
+      "home_team": {
+        "id": 162,
+        "slug": "cadiz-cf",
+        "name": "C\u00e1diz Club de F\u00fatbol SAD",
+        "nickname": "C\u00e1diz CF",
+        "boundname": "C\u00e1diz CF",
+        "shortname": "CAD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 411,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/cadiz.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 41,
+        "slug": "real-zaragoza",
+        "name": "Real Zaragoza SAD",
+        "nickname": "Real Zaragoza",
+        "boundname": "Real Zaragoza",
+        "shortname": "ZAR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 201,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/zaragoza.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Nuevo Mirandilla"
+      },
+      "persons_role": [
+        {
+          "person": {
+            "name": "Roberto Gonzalo Sanchez",
+            "nickname": "Roberto Gonzalo Sanchez",
+            "firstname": "Roberto",
+            "lastname": "Gonzalo Sanchez"
+          },
+          "role": {
+            "id": 8,
+            "name": "Cuarto \u00c1rbitro"
+          }
+        },
+        {
+          "person": {
+            "name": "Christian Valverde Monsalve",
+            "nickname": "Valverde Monsalve",
+            "firstname": "Christian",
+            "lastname": "Valverde Monsalve"
+          },
+          "role": {
+            "id": 6,
+            "name": "\u00c1rbitro Asistente 1"
+          }
+        }
+      ],
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93052,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Racing Club Ferrol - M\u00e1laga CF - 1",
+      "slug": "temporada-2024-2025-laliga-hypermotion-racing-club-ferrol-malaga-cf-1",
+      "date": "2024-08-17T15:00:00+00:00",
+      "time": "2024-08-17T15:00:00+00:00",
+      "hashtag": "RacingFerrolM\u00e1laga",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "FullTime",
+      "home_team": {
+        "id": 204,
+        "slug": "racing-ferrol",
+        "name": "Racing Club de Ferrol",
+        "nickname": "Racing Club Ferrol",
+        "boundname": "Racing Club Ferrol",
+        "shortname": "RCF",
+        "sprite_status": "created",
+        "shield": {
+          "id": 703496,
+          "url": "https://assets.laliga.com/assets/2023/05/31/medium/2a24368d444ad661302ac3cddb4c9d5a.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 12,
+        "slug": "malaga-cf",
+        "name": "M\u00e1laga Club de F\u00fatbol SAD",
+        "nickname": "M\u00e1laga CF",
+        "boundname": "M\u00e1laga CF",
+        "shortname": "MGA",
+        "sprite_status": "created",
+        "shield": {
+          "id": 143,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/malaga.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio A Malata"
+      },
+      "persons_role": [
+        {
+          "person": {
+            "name": "Miguel Sesma Espinosa",
+            "nickname": "Miguel Sesma Espinosa",
+            "firstname": "Miguel",
+            "lastname": "Sesma Espinosa"
+          },
+          "role": {
+            "id": 5,
+            "name": "\u00c1rbitro Principal"
+          }
+        },
+        {
+          "person": {
+            "name": "Miguel Ortu\u00f1o Sierra",
+            "nickname": "Miguel Ortu\u00f1o Sierra",
+            "firstname": "Miguel",
+            "lastname": "Ortu\u00f1o Sierra"
+          },
+          "role": {
+            "id": 6,
+            "name": "\u00c1rbitro Asistente 1"
+          }
+        },
+        {
+          "person": {
+            "name": "David Bernal Mart\u00edn",
+            "nickname": "Bernal Mart\u00edn",
+            "firstname": "David",
+            "lastname": "Bernal Mart\u00edn"
+          },
+          "role": {
+            "id": 7,
+            "name": "\u00c1rbitro Asistente 2"
+          }
+        },
+        {
+          "person": {
+            "name": "Jaime Ruiz \u00c1lvarez",
+            "nickname": "Jaime Ruiz \u00c1lvarez",
+            "firstname": "Jaime",
+            "lastname": "Ruiz \u00c1lvarez"
+          },
+          "role": {
+            "id": 8,
+            "name": "Cuarto \u00c1rbitro"
+          }
+        },
+        {
+          "person": {
+            "name": "David G\u00e1lvez Rasc\u00f3n",
+            "nickname": "David G\u00e1lvez Rasc\u00f3n",
+            "firstname": "David",
+            "lastname": "G\u00e1lvez Rasc\u00f3n"
+          },
+          "role": {
+            "id": 9,
+            "name": "VAR"
+          }
+        },
+        {
+          "person": {
+            "name": "Jos\u00e9 Antonio L\u00f3pez Toca",
+            "nickname": "Jos\u00e9 Antonio L\u00f3pez Toca",
+            "firstname": "Jos\u00e9 Antonio",
+            "lastname": "L\u00f3pez Toca"
+          },
+          "role": {
+            "id": 10,
+            "name": "AVAR"
+          }
+        }
+      ],
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93055,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - SD Eibar - CD Castell\u00f3n - 1",
+      "slug": "temporada-2024-2025-laliga-hypermotion-sd-eibar-cd-castellon-1",
+      "date": "2024-08-17T15:00:00+00:00",
+      "time": "2024-08-17T15:00:00+00:00",
+      "hashtag": "EibarCastell\u00f3n",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "FullTime",
+      "home_team": {
+        "id": 27,
+        "slug": "sd-eibar",
+        "name": "Sociedad Deportiva Eibar SAD",
+        "nickname": "SD Eibar",
+        "boundname": "SD Eibar",
+        "shortname": "EIB",
+        "sprite_status": "created",
+        "shield": {
+          "id": 173,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/eibar.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 158,
+        "slug": "cd-castellon",
+        "name": "CD Castell\u00f3n",
+        "nickname": "CD Castell\u00f3n",
+        "boundname": "CD Castell\u00f3n",
+        "shortname": "CAS",
+        "sprite_status": "created",
+        "shield": {
+          "id": 405804,
+          "url": "https://assets.laliga.com/assets/2019/11/18/medium/0cb9fb4e471b8fe16fe9f6f193188505.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Municipal de Ipurua"
+      },
+      "persons_role": [
+        {
+          "person": {
+            "name": "Guillermo Cueto Amigo",
+            "nickname": "Guillermo Cueto Amigo",
+            "firstname": "Guillermo",
+            "lastname": "Cueto Amigo"
+          },
+          "role": {
+            "id": 8,
+            "name": "Cuarto \u00c1rbitro"
+          }
+        },
+        {
+          "person": {
+            "name": "Samuel Garc\u00eda Aguilera",
+            "nickname": "Samuel Garc\u00eda Aguilera",
+            "firstname": "Samuel",
+            "lastname": "Garc\u00eda Aguilera"
+          },
+          "role": {
+            "id": 6,
+            "name": "\u00c1rbitro Asistente 1"
+          }
+        }
+      ],
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93049,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - RC Deportivo - Real Oviedo - 1",
+      "slug": "temporada-2024-2025-laliga-hypermotion-rc-deportivo-real-oviedo-1",
+      "date": "2024-08-17T17:00:00+00:00",
+      "time": "2024-08-17T17:00:00+00:00",
+      "hashtag": "D\u00e9porRealOviedo",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "FullTime",
+      "home_team": {
+        "id": 26,
+        "slug": "rc-deportivo",
+        "name": "Real Club Deportivo de La Coru\u00f1a SAD",
+        "nickname": "RC Deportivo",
+        "boundname": "RC Deportivo",
+        "shortname": "RCD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 171,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/deportivo.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 157,
+        "slug": "real-oviedo",
+        "name": "Real Oviedo SAD",
+        "nickname": "Real Oviedo",
+        "boundname": "Real Oviedo",
+        "shortname": "OVI",
+        "sprite_status": "created",
+        "shield": {
+          "id": 407,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/oviedo.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio ABANCA-RIAZOR"
+      },
+      "persons_role": [
+        {
+          "person": {
+            "name": "Salvador Lax Franco",
+            "nickname": "Salvador Lax Franco",
+            "firstname": "Salvador",
+            "lastname": "Lax Franco"
+          },
+          "role": {
+            "id": 5,
+            "name": "\u00c1rbitro Principal"
+          }
+        },
+        {
+          "person": {
+            "name": "Carlos Grande Rabad\u00e1n",
+            "nickname": "Carlos Grande Rabad\u00e1n",
+            "firstname": "Carlos",
+            "lastname": "Grande Rabad\u00e1n"
+          },
+          "role": {
+            "id": 6,
+            "name": "\u00c1rbitro Asistente 1"
+          }
+        },
+        {
+          "person": {
+            "name": "Diego Fern\u00e1ndez Correas",
+            "nickname": "Diego Fern\u00e1ndez Correas",
+            "firstname": "Diego",
+            "lastname": "Fern\u00e1ndez Correas"
+          },
+          "role": {
+            "id": 7,
+            "name": "\u00c1rbitro Asistente 2"
+          }
+        },
+        {
+          "person": {
+            "name": "Jos\u00e9 Alberto Pardeiro Puente",
+            "nickname": "Jos\u00e9 Alberto Pardeiro Puente",
+            "firstname": "Jos\u00e9 Alberto",
+            "lastname": "Pardeiro Puente"
+          },
+          "role": {
+            "id": 8,
+            "name": "Cuarto \u00c1rbitro"
+          }
+        },
+        {
+          "person": {
+            "name": "Rafael S\u00e1nchez L\u00f3pez",
+            "nickname": "Rafael S\u00e1nchez L\u00f3pez",
+            "firstname": "Rafael",
+            "lastname": "S\u00e1nchez L\u00f3pez"
+          },
+          "role": {
+            "id": 9,
+            "name": "VAR"
+          }
+        },
+        {
+          "person": {
+            "name": "Ra\u00fal Mart\u00edn Gonz\u00e1lez Franc\u00e9s",
+            "nickname": "Ra\u00fal Mart\u00edn Gonz\u00e1lez Franc\u00e9s",
+            "firstname": "Ra\u00fal Mart\u00edn",
+            "lastname": "Gonz\u00e1lez Franc\u00e9s"
+          },
+          "role": {
+            "id": 10,
+            "name": "AVAR"
+          }
+        }
+      ],
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93054,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - R. Racing Club - UD Almer\u00eda - 1",
+      "slug": "temporada-2024-2025-laliga-hypermotion-r-racing-club-ud-almeria-1",
+      "date": "2024-08-18T15:00:00+00:00",
+      "time": "2024-08-18T15:00:00+00:00",
+      "hashtag": "RacingAlmer\u00eda",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 49,
+        "slug": "r-racing-club",
+        "name": "Real Racing Club SAD",
+        "nickname": "R. Racing Club",
+        "boundname": "R. Racing Club",
+        "shortname": "RAC",
+        "sprite_status": "created",
+        "shield": {
+          "id": 215,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/racing.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 1,
+        "slug": "ud-almeria",
+        "name": "Uni\u00f3n Deportiva Almer\u00eda SAD",
+        "nickname": "UD Almer\u00eda",
+        "boundname": "UD Almer\u00eda",
+        "shortname": "ALM",
+        "sprite_status": "created",
+        "shield": {
+          "id": 121,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/almeria.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "El Sardinero"
+      },
+      "persons_role": [
+        {
+          "person": {
+            "name": "\u00c1lvaro Moreno Arag\u00f3n",
+            "nickname": "\u00c1lvaro Moreno Arag\u00f3n",
+            "firstname": "\u00c1lvaro",
+            "lastname": "Moreno Arag\u00f3n"
+          },
+          "role": {
+            "id": 5,
+            "name": "\u00c1rbitro Principal"
+          }
+        },
+        {
+          "person": {
+            "name": "David G\u00e1lvez Rasc\u00f3n",
+            "nickname": "David G\u00e1lvez Rasc\u00f3n",
+            "firstname": "David",
+            "lastname": "G\u00e1lvez Rasc\u00f3n"
+          },
+          "role": {
+            "id": 9,
+            "name": "VAR"
+          }
+        },
+        {
+          "person": {
+            "name": "Jes\u00fas Mira Garcia",
+            "nickname": "Jes\u00fas Mira Garcia",
+            "firstname": "Jes\u00fas",
+            "lastname": "Mira Garcia"
+          },
+          "role": {
+            "id": 10,
+            "name": "AVAR"
+          }
+        }
+      ],
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93057,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Real Sporting - Levante UD - 1",
+      "slug": "temporada-2024-2025-laliga-hypermotion-real-sporting-levante-ud-1",
+      "date": "2024-08-18T15:00:00+00:00",
+      "time": "2024-08-18T15:00:00+00:00",
+      "hashtag": "RealSportingLevante",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 39,
+        "slug": "real-sporting",
+        "name": "Real Sporting de Gij\u00f3n SAD",
+        "nickname": "Real Sporting",
+        "boundname": "Real Sporting",
+        "shortname": "SPO",
+        "sprite_status": "created",
+        "shield": {
+          "id": 197,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/sporting.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 11,
+        "slug": "levante-ud",
+        "name": "Levante Uni\u00f3n Deportiva SAD",
+        "nickname": "Levante UD",
+        "boundname": "Levante UD",
+        "shortname": "LEV",
+        "sprite_status": "created",
+        "shield": {
+          "id": 141,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/levante.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "El Molin\u00f3n-Enrique Castro \"Quini\""
+      },
+      "persons_role": [
+        {
+          "person": {
+            "name": "Jos\u00e9 Luis Guzm\u00e1n Mansilla",
+            "nickname": "Jos\u00e9 Luis Guzm\u00e1n Mansilla",
+            "firstname": "Jos\u00e9 Luis",
+            "lastname": "Guzm\u00e1n Mansilla"
+          },
+          "role": {
+            "id": 5,
+            "name": "\u00c1rbitro Principal"
+          }
+        },
+        {
+          "person": {
+            "name": "Aitor Gorostegui Fern\u00e1ndez-Ortega",
+            "nickname": "Aitor Gorostegui Fern\u00e1ndez-Ortega",
+            "firstname": "Aitor",
+            "lastname": "Gorostegui Fern\u00e1ndez-Ortega"
+          },
+          "role": {
+            "id": 9,
+            "name": "VAR"
+          }
+        },
+        {
+          "person": {
+            "name": "Manuel \u00c1ngel P\u00e9rez Hern\u00e1ndez",
+            "nickname": "Manuel \u00c1ngel P\u00e9rez Hern\u00e1ndez",
+            "firstname": "Manuel \u00c1ngel",
+            "lastname": "P\u00e9rez Hern\u00e1ndez"
+          },
+          "role": {
+            "id": 10,
+            "name": "AVAR"
+          }
+        }
+      ],
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93047,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Burgos CF - FC Cartagena - 1",
+      "slug": "temporada-2024-2025-laliga-hypermotion-burgos-cf-fc-cartagena-1",
+      "date": "2024-08-18T17:30:00+00:00",
+      "time": "2024-08-18T17:30:00+00:00",
+      "hashtag": "BurgosCFCartagena",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 53,
+        "slug": "burgos",
+        "name": "Burgos CF",
+        "nickname": "Burgos CF",
+        "boundname": "Burgos CF",
+        "shortname": "BUR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 535425,
+          "url": "https://assets.laliga.com/assets/2021/06/24/medium/8de24d38ab1472bbae1620d36582d7bd.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 62,
+        "slug": "cartagena",
+        "name": "FC Cartagena",
+        "nickname": "FC Cartagena",
+        "boundname": "FC Cartagena",
+        "shortname": "CAR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 580954,
+          "url": "https://assets.laliga.com/assets/2022/02/11/medium/1628caa9b2002a11e564eb84b3677f78.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "El Plant\u00edo"
+      },
+      "persons_role": [
+        {
+          "person": {
+            "name": "Marta Huerta de Aza",
+            "nickname": "Marta Huerta de Aza",
+            "firstname": "Marta Huerta",
+            "lastname": "de Aza"
+          },
+          "role": {
+            "id": 5,
+            "name": "\u00c1rbitro Principal"
+          }
+        },
+        {
+          "person": {
+            "name": "Ra\u00fal Mart\u00edn Gonz\u00e1lez Franc\u00e9s",
+            "nickname": "Ra\u00fal Mart\u00edn Gonz\u00e1lez Franc\u00e9s",
+            "firstname": "Ra\u00fal Mart\u00edn",
+            "lastname": "Gonz\u00e1lez Franc\u00e9s"
+          },
+          "role": {
+            "id": 9,
+            "name": "VAR"
+          }
+        },
+        {
+          "person": {
+            "name": "Carlos Mu\u00f1iz Mu\u00f1oz",
+            "nickname": "Mu\u00f1iz Mu\u00f1oz",
+            "firstname": "Carlos",
+            "lastname": "Mu\u00f1iz Mu\u00f1oz"
+          },
+          "role": {
+            "id": 10,
+            "name": "AVAR"
+          }
+        }
+      ],
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93050,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Elche CF - SD Huesca - 1",
+      "slug": "temporada-2024-2025-laliga-hypermotion-elche-cf-sd-huesca-1",
+      "date": "2024-08-18T17:30:00+00:00",
+      "time": "2024-08-18T17:30:00+00:00",
+      "hashtag": "ElcheHuesca",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 7,
+        "slug": "elche-c-f",
+        "name": "Elche Club de F\u00fatbol SAD",
+        "nickname": "Elche CF",
+        "boundname": "Elche CF",
+        "shortname": "ELC",
+        "sprite_status": "created",
+        "shield": {
+          "id": 133,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/elche.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 63,
+        "slug": "sd-huesca",
+        "name": "Sociedad Deportiva Huesca SAD",
+        "nickname": "SD Huesca",
+        "boundname": "SD Huesca",
+        "shortname": "HUE",
+        "sprite_status": "created",
+        "shield": {
+          "id": 712642,
+          "url": "https://assets.laliga.com/assets/2023/07/10/medium/33fab7067fb4c797cfb5ce179a045b64.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Mart\u00ednez Valero"
+      },
+      "persons_role": [
+        {
+          "person": {
+            "name": "Daniel Palencia Caballero",
+            "nickname": "Daniel Palencia Caballero",
+            "firstname": "Daniel",
+            "lastname": "Palencia Caballero"
+          },
+          "role": {
+            "id": 5,
+            "name": "\u00c1rbitro Principal"
+          }
+        },
+        {
+          "person": {
+            "name": "Luis Mario Milla Alvendiz",
+            "nickname": "Luis Mario Milla Alvendiz",
+            "firstname": "Luis Mario",
+            "lastname": "Milla Alvendiz"
+          },
+          "role": {
+            "id": 9,
+            "name": "VAR"
+          }
+        },
+        {
+          "person": {
+            "name": "David P\u00e9rez De Colosia",
+            "nickname": "David P\u00e9rez De Colosia Alonso",
+            "firstname": "David P\u00e9rez",
+            "lastname": "De Colosia"
+          },
+          "role": {
+            "id": 10,
+            "name": "AVAR"
+          }
+        }
+      ],
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93051,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - CD Eldense - CD Tenerife - 1",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cd-eldense-cd-tenerife-1",
+      "date": "2024-08-19T18:30:00+00:00",
+      "time": "2024-08-19T18:30:00+00:00",
+      "hashtag": "EldenseTenerife",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 962,
+        "slug": "eldense",
+        "name": "Club Deportivo Eldense",
+        "nickname": "CD Eldense",
+        "boundname": "CD Eldense",
+        "shortname": "ELD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 727016,
+          "url": "https://assets.laliga.com/assets/2023/09/28/medium/58b0ce20fa615378dfe4d03ab2ce063e.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 40,
+        "slug": "cd-tenerife",
+        "name": "Club Deportivo Tenerife SAD",
+        "nickname": "CD Tenerife",
+        "boundname": "CD Tenerife",
+        "shortname": "TEN",
+        "sprite_status": "created",
+        "shield": {
+          "id": 199,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/tenerife.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Municipal Nuevo Pepico Amat"
+      },
+      "persons_role": [
+        {
+          "person": {
+            "name": "\u00d3liver de la Fuente",
+            "nickname": "\u00d3liver de la Fuente Ramos",
+            "firstname": "\u00d3liver de",
+            "lastname": "la Fuente"
+          },
+          "role": {
+            "id": 5,
+            "name": "\u00c1rbitro Principal"
+          }
+        },
+        {
+          "person": {
+            "name": "Aitor Gorostegui Fern\u00e1ndez-Ortega",
+            "nickname": "Aitor Gorostegui Fern\u00e1ndez-Ortega",
+            "firstname": "Aitor",
+            "lastname": "Gorostegui Fern\u00e1ndez-Ortega"
+          },
+          "role": {
+            "id": 9,
+            "name": "VAR"
+          }
+        },
+        {
+          "person": {
+            "name": "David P\u00e9rez De Colosia",
+            "nickname": "David P\u00e9rez De Colosia Alonso",
+            "firstname": "David P\u00e9rez",
+            "lastname": "De Colosia"
+          },
+          "role": {
+            "id": 10,
+            "name": "AVAR"
+          }
+        }
+      ],
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    }
+  ],
+  "jornada-2": [
+    {
+      "id": 93067,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - R. Racing Club - SD Eibar - 2",
+      "slug": "temporada-2024-2025-laliga-hypermotion-r-racing-club-sd-eibar-2",
+      "date": "2024-08-23T17:00:00+00:00",
+      "time": "2024-08-23T17:00:00+00:00",
+      "hashtag": "RacingEibar",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 49,
+        "slug": "r-racing-club",
+        "name": "Real Racing Club SAD",
+        "nickname": "R. Racing Club",
+        "boundname": "R. Racing Club",
+        "shortname": "RAC",
+        "sprite_status": "created",
+        "shield": {
+          "id": 215,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/racing.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 27,
+        "slug": "sd-eibar",
+        "name": "Sociedad Deportiva Eibar SAD",
+        "nickname": "SD Eibar",
+        "boundname": "SD Eibar",
+        "shortname": "EIB",
+        "sprite_status": "created",
+        "shield": {
+          "id": 173,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/eibar.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "El Sardinero"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93066,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - SD Huesca - RC Deportivo - 2",
+      "slug": "temporada-2024-2025-laliga-hypermotion-sd-huesca-rc-deportivo-2",
+      "date": "2024-08-23T19:30:00+00:00",
+      "time": "2024-08-23T19:30:00+00:00",
+      "hashtag": "HuescaD\u00e9por",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 63,
+        "slug": "sd-huesca",
+        "name": "Sociedad Deportiva Huesca SAD",
+        "nickname": "SD Huesca",
+        "boundname": "SD Huesca",
+        "shortname": "HUE",
+        "sprite_status": "created",
+        "shield": {
+          "id": 712642,
+          "url": "https://assets.laliga.com/assets/2023/07/10/medium/33fab7067fb4c797cfb5ce179a045b64.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 26,
+        "slug": "rc-deportivo",
+        "name": "Real Club Deportivo de La Coru\u00f1a SAD",
+        "nickname": "RC Deportivo",
+        "boundname": "RC Deportivo",
+        "shortname": "RCD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 171,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/deportivo.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "El Alcoraz"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93061,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Racing Club Ferrol - Granada CF - 2",
+      "slug": "temporada-2024-2025-laliga-hypermotion-racing-club-ferrol-granada-cf-2",
+      "date": "2024-08-24T15:00:00+00:00",
+      "time": "2024-08-24T15:00:00+00:00",
+      "hashtag": "RacingFerrolGranada",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 204,
+        "slug": "racing-ferrol",
+        "name": "Racing Club de Ferrol",
+        "nickname": "Racing Club Ferrol",
+        "boundname": "Racing Club Ferrol",
+        "shortname": "RCF",
+        "sprite_status": "created",
+        "shield": {
+          "id": 703496,
+          "url": "https://assets.laliga.com/assets/2023/05/31/medium/2a24368d444ad661302ac3cddb4c9d5a.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 10,
+        "slug": "granada-cf",
+        "name": "Granada Club de F\u00fatbol SAD",
+        "nickname": "Granada CF",
+        "boundname": "Granada CF",
+        "shortname": "GRA",
+        "sprite_status": "created",
+        "shield": {
+          "id": 660604,
+          "url": "https://assets.laliga.com/assets/2023/01/17/medium/f5db12f3a29fdfd14a0d50337016dc95.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio A Malata"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93068,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Real Sporting - CD Eldense - 2",
+      "slug": "temporada-2024-2025-laliga-hypermotion-real-sporting-cd-eldense-2",
+      "date": "2024-08-24T15:00:00+00:00",
+      "time": "2024-08-24T15:00:00+00:00",
+      "hashtag": "RealSportingEldense",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 39,
+        "slug": "real-sporting",
+        "name": "Real Sporting de Gij\u00f3n SAD",
+        "nickname": "Real Sporting",
+        "boundname": "Real Sporting",
+        "shortname": "SPO",
+        "sprite_status": "created",
+        "shield": {
+          "id": 197,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/sporting.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 962,
+        "slug": "eldense",
+        "name": "Club Deportivo Eldense",
+        "nickname": "CD Eldense",
+        "boundname": "CD Eldense",
+        "shortname": "ELD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 727016,
+          "url": "https://assets.laliga.com/assets/2023/09/28/medium/58b0ce20fa615378dfe4d03ab2ce063e.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "El Molin\u00f3n-Enrique Castro \"Quini\""
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93065,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Levante UD - C\u00e1diz CF - 2",
+      "slug": "temporada-2024-2025-laliga-hypermotion-levante-ud-cadiz-cf-2",
+      "date": "2024-08-24T17:00:00+00:00",
+      "time": "2024-08-24T17:00:00+00:00",
+      "hashtag": "LevanteC\u00e1diz",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 11,
+        "slug": "levante-ud",
+        "name": "Levante Uni\u00f3n Deportiva SAD",
+        "nickname": "Levante UD",
+        "boundname": "Levante UD",
+        "shortname": "LEV",
+        "sprite_status": "created",
+        "shield": {
+          "id": 141,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/levante.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 162,
+        "slug": "cadiz-cf",
+        "name": "C\u00e1diz Club de F\u00fatbol SAD",
+        "nickname": "C\u00e1diz CF",
+        "boundname": "C\u00e1diz CF",
+        "shortname": "CAD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 411,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/cadiz.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Ciutat de Val\u00e8ncia"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93062,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - M\u00e1laga CF - CD Mirand\u00e9s - 2",
+      "slug": "temporada-2024-2025-laliga-hypermotion-malaga-cf-cd-mirandes-2",
+      "date": "2024-08-24T19:30:00+00:00",
+      "time": "2024-08-24T19:30:00+00:00",
+      "hashtag": "M\u00e1lagaMirand\u00e9s",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 12,
+        "slug": "malaga-cf",
+        "name": "M\u00e1laga Club de F\u00fatbol SAD",
+        "nickname": "M\u00e1laga CF",
+        "boundname": "M\u00e1laga CF",
+        "shortname": "MGA",
+        "sprite_status": "created",
+        "shield": {
+          "id": 143,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/malaga.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 34,
+        "slug": "mirandes",
+        "name": "Club Deportivo Mirand\u00e9s SAD",
+        "nickname": "CD Mirand\u00e9s",
+        "boundname": "CD Mirand\u00e9s",
+        "shortname": "MIR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 187,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/mirandes.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "La Rosaleda"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93063,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - CD Tenerife - UD Almer\u00eda - 2",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cd-tenerife-ud-almeria-2",
+      "date": "2024-08-24T19:30:00+00:00",
+      "time": "2024-08-24T19:30:00+00:00",
+      "hashtag": "TenerifeAlmer\u00eda",
+      "status": "PreMatch",
+      "note": "Horario peninsular",
+      "home_team": {
+        "id": 40,
+        "slug": "cd-tenerife",
+        "name": "Club Deportivo Tenerife SAD",
+        "nickname": "CD Tenerife",
+        "boundname": "CD Tenerife",
+        "shortname": "TEN",
+        "sprite_status": "created",
+        "shield": {
+          "id": 199,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/tenerife.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 1,
+        "slug": "ud-almeria",
+        "name": "Uni\u00f3n Deportiva Almer\u00eda SAD",
+        "nickname": "UD Almer\u00eda",
+        "boundname": "UD Almer\u00eda",
+        "shortname": "ALM",
+        "sprite_status": "created",
+        "shield": {
+          "id": 121,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/almeria.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Heliodoro Rodr\u00edguez L\u00f3pez"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93058,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Albacete BP - Elche CF - 2",
+      "slug": "temporada-2024-2025-laliga-hypermotion-albacete-bp-elche-cf-2",
+      "date": "2024-08-25T17:00:00+00:00",
+      "time": "2024-08-25T17:00:00+00:00",
+      "hashtag": "AlbaceteBPElche",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 47,
+        "slug": "albacete-bp",
+        "name": "Albacete Balompi\u00e9 SAD",
+        "nickname": "Albacete BP",
+        "boundname": "Albacete BP",
+        "shortname": "ALB",
+        "sprite_status": "created",
+        "shield": {
+          "id": 211,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/albacete.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 7,
+        "slug": "elche-c-f",
+        "name": "Elche Club de F\u00fatbol SAD",
+        "nickname": "Elche CF",
+        "boundname": "Elche CF",
+        "shortname": "ELC",
+        "sprite_status": "created",
+        "shield": {
+          "id": 133,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/elche.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Carlos Belmonte"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93060,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - CD Castell\u00f3n - Real Oviedo - 2",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cd-castellon-real-oviedo-2",
+      "date": "2024-08-25T19:30:00+00:00",
+      "time": "2024-08-25T19:30:00+00:00",
+      "hashtag": "Castell\u00f3nRealOviedo",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 158,
+        "slug": "cd-castellon",
+        "name": "CD Castell\u00f3n",
+        "nickname": "CD Castell\u00f3n",
+        "boundname": "CD Castell\u00f3n",
+        "shortname": "CAS",
+        "sprite_status": "created",
+        "shield": {
+          "id": 405804,
+          "url": "https://assets.laliga.com/assets/2019/11/18/medium/0cb9fb4e471b8fe16fe9f6f193188505.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 157,
+        "slug": "real-oviedo",
+        "name": "Real Oviedo SAD",
+        "nickname": "Real Oviedo",
+        "boundname": "Real Oviedo",
+        "shortname": "OVI",
+        "sprite_status": "created",
+        "shield": {
+          "id": 407,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/oviedo.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Municipal de Castalia"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93059,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - FC Cartagena - Real Zaragoza - 2",
+      "slug": "temporada-2024-2025-laliga-hypermotion-fc-cartagena-real-zaragoza-2",
+      "date": "2024-08-26T17:00:00+00:00",
+      "time": "2024-08-26T17:00:00+00:00",
+      "hashtag": "CartagenaRealZaragoza",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 62,
+        "slug": "cartagena",
+        "name": "FC Cartagena",
+        "nickname": "FC Cartagena",
+        "boundname": "FC Cartagena",
+        "shortname": "CAR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 580954,
+          "url": "https://assets.laliga.com/assets/2022/02/11/medium/1628caa9b2002a11e564eb84b3677f78.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 41,
+        "slug": "real-zaragoza",
+        "name": "Real Zaragoza SAD",
+        "nickname": "Real Zaragoza",
+        "boundname": "Real Zaragoza",
+        "shortname": "ZAR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 201,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/zaragoza.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Municipal Cartagonova"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93064,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - C\u00f3rdoba CF - Burgos CF - 2",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cordoba-cf-burgos-cf-2",
+      "date": "2024-08-26T19:30:00+00:00",
+      "time": "2024-08-26T19:30:00+00:00",
+      "hashtag": "C\u00f3rdobaBurgosCF",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 25,
+        "slug": "cordoba-cf",
+        "name": "C\u00f3rdoba Club de F\u00fatbol SAD",
+        "nickname": "C\u00f3rdoba CF",
+        "boundname": "C\u00f3rdoba CF",
+        "shortname": "CCF",
+        "sprite_status": "created",
+        "shield": {
+          "id": 169,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/cordoba.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 53,
+        "slug": "burgos",
+        "name": "Burgos CF",
+        "nickname": "Burgos CF",
+        "boundname": "Burgos CF",
+        "shortname": "BUR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 535425,
+          "url": "https://assets.laliga.com/assets/2021/06/24/medium/8de24d38ab1472bbae1620d36582d7bd.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Municipal Nuevo Arc\u00e1ngel"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    }
+  ],
+  "jornada-3": [
+    {
+      "id": 93074,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Granada CF - SD Huesca - 3",
+      "slug": "temporada-2024-2025-laliga-hypermotion-granada-cf-sd-huesca-3",
+      "date": "2024-08-30T17:00:00+00:00",
+      "time": "2024-08-30T17:00:00+00:00",
+      "hashtag": "GranadaHuesca",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 10,
+        "slug": "granada-cf",
+        "name": "Granada Club de F\u00fatbol SAD",
+        "nickname": "Granada CF",
+        "boundname": "Granada CF",
+        "shortname": "GRA",
+        "sprite_status": "created",
+        "shield": {
+          "id": 660604,
+          "url": "https://assets.laliga.com/assets/2023/01/17/medium/f5db12f3a29fdfd14a0d50337016dc95.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 63,
+        "slug": "sd-huesca",
+        "name": "Sociedad Deportiva Huesca SAD",
+        "nickname": "SD Huesca",
+        "boundname": "SD Huesca",
+        "shortname": "HUE",
+        "sprite_status": "created",
+        "shield": {
+          "id": 712642,
+          "url": "https://assets.laliga.com/assets/2023/07/10/medium/33fab7067fb4c797cfb5ce179a045b64.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Nuevo Los C\u00e1rmenes"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93076,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Real Oviedo - R. Racing Club - 3",
+      "slug": "temporada-2024-2025-laliga-hypermotion-real-oviedo-r-racing-club-3",
+      "date": "2024-08-30T19:30:00+00:00",
+      "time": "2024-08-30T19:30:00+00:00",
+      "hashtag": "RealOviedoRacing",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 157,
+        "slug": "real-oviedo",
+        "name": "Real Oviedo SAD",
+        "nickname": "Real Oviedo",
+        "boundname": "Real Oviedo",
+        "shortname": "OVI",
+        "sprite_status": "created",
+        "shield": {
+          "id": 407,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/oviedo.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 49,
+        "slug": "r-racing-club",
+        "name": "Real Racing Club SAD",
+        "nickname": "R. Racing Club",
+        "boundname": "R. Racing Club",
+        "shortname": "RAC",
+        "sprite_status": "created",
+        "shield": {
+          "id": 215,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/racing.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Carlos Tartiere"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93071,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - C\u00e1diz CF - CD Tenerife - 3",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cadiz-cf-cd-tenerife-3",
+      "date": "2024-08-31T17:00:00+00:00",
+      "time": "2024-08-31T17:00:00+00:00",
+      "hashtag": "C\u00e1dizTenerife",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 162,
+        "slug": "cadiz-cf",
+        "name": "C\u00e1diz Club de F\u00fatbol SAD",
+        "nickname": "C\u00e1diz CF",
+        "boundname": "C\u00e1diz CF",
+        "shortname": "CAD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 411,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/cadiz.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 40,
+        "slug": "cd-tenerife",
+        "name": "Club Deportivo Tenerife SAD",
+        "nickname": "CD Tenerife",
+        "boundname": "CD Tenerife",
+        "shortname": "TEN",
+        "sprite_status": "created",
+        "shield": {
+          "id": 199,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/tenerife.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Nuevo Mirandilla"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93069,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - UD Almer\u00eda - Real Sporting - 3",
+      "slug": "temporada-2024-2025-laliga-hypermotion-ud-almeria-real-sporting-3",
+      "date": "2024-08-31T19:30:00+00:00",
+      "time": "2024-08-31T19:30:00+00:00",
+      "hashtag": "Almer\u00edaRealSporting",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 1,
+        "slug": "ud-almeria",
+        "name": "Uni\u00f3n Deportiva Almer\u00eda SAD",
+        "nickname": "UD Almer\u00eda",
+        "boundname": "UD Almer\u00eda",
+        "shortname": "ALM",
+        "sprite_status": "created",
+        "shield": {
+          "id": 121,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/almeria.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 39,
+        "slug": "real-sporting",
+        "name": "Real Sporting de Gij\u00f3n SAD",
+        "nickname": "Real Sporting",
+        "boundname": "Real Sporting",
+        "shortname": "SPO",
+        "sprite_status": "created",
+        "shield": {
+          "id": 197,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/sporting.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "UD Almer\u00eda Stadium"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93077,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - M\u00e1laga CF - Albacete BP - 3",
+      "slug": "temporada-2024-2025-laliga-hypermotion-malaga-cf-albacete-bp-3",
+      "date": "2024-08-31T19:30:00+00:00",
+      "time": "2024-08-31T19:30:00+00:00",
+      "hashtag": "M\u00e1lagaAlbaceteBP",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 12,
+        "slug": "malaga-cf",
+        "name": "M\u00e1laga Club de F\u00fatbol SAD",
+        "nickname": "M\u00e1laga CF",
+        "boundname": "M\u00e1laga CF",
+        "shortname": "MGA",
+        "sprite_status": "created",
+        "shield": {
+          "id": 143,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/malaga.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 47,
+        "slug": "albacete-bp",
+        "name": "Albacete Balompi\u00e9 SAD",
+        "nickname": "Albacete BP",
+        "boundname": "Albacete BP",
+        "shortname": "ALB",
+        "sprite_status": "created",
+        "shield": {
+          "id": 211,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/albacete.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "La Rosaleda"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93070,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Burgos CF - CD Castell\u00f3n - 3",
+      "slug": "temporada-2024-2025-laliga-hypermotion-burgos-cf-cd-castellon-3",
+      "date": "2024-09-01T15:00:00+00:00",
+      "time": "2024-09-01T15:00:00+00:00",
+      "hashtag": "BurgosCFCastell\u00f3n",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 53,
+        "slug": "burgos",
+        "name": "Burgos CF",
+        "nickname": "Burgos CF",
+        "boundname": "Burgos CF",
+        "shortname": "BUR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 535425,
+          "url": "https://assets.laliga.com/assets/2021/06/24/medium/8de24d38ab1472bbae1620d36582d7bd.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 158,
+        "slug": "cd-castellon",
+        "name": "CD Castell\u00f3n",
+        "nickname": "CD Castell\u00f3n",
+        "boundname": "CD Castell\u00f3n",
+        "shortname": "CAS",
+        "sprite_status": "created",
+        "shield": {
+          "id": 405804,
+          "url": "https://assets.laliga.com/assets/2019/11/18/medium/0cb9fb4e471b8fe16fe9f6f193188505.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "El Plant\u00edo"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93072,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - RC Deportivo - Racing Club Ferrol - 3",
+      "slug": "temporada-2024-2025-laliga-hypermotion-rc-deportivo-racing-club-ferrol-3",
+      "date": "2024-09-01T15:00:00+00:00",
+      "time": "2024-09-01T15:00:00+00:00",
+      "hashtag": "D\u00e9porRacingFerrol",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 26,
+        "slug": "rc-deportivo",
+        "name": "Real Club Deportivo de La Coru\u00f1a SAD",
+        "nickname": "RC Deportivo",
+        "boundname": "RC Deportivo",
+        "shortname": "RCD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 171,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/deportivo.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 204,
+        "slug": "racing-ferrol",
+        "name": "Racing Club de Ferrol",
+        "nickname": "Racing Club Ferrol",
+        "boundname": "Racing Club Ferrol",
+        "shortname": "RCF",
+        "sprite_status": "created",
+        "shield": {
+          "id": 703496,
+          "url": "https://assets.laliga.com/assets/2023/05/31/medium/2a24368d444ad661302ac3cddb4c9d5a.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio ABANCA-RIAZOR"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93075,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - CD Mirand\u00e9s - Real Zaragoza - 3",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cd-mirandes-real-zaragoza-3",
+      "date": "2024-09-01T17:00:00+00:00",
+      "time": "2024-09-01T17:00:00+00:00",
+      "hashtag": "Mirand\u00e9sRealZaragoza",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 34,
+        "slug": "mirandes",
+        "name": "Club Deportivo Mirand\u00e9s SAD",
+        "nickname": "CD Mirand\u00e9s",
+        "boundname": "CD Mirand\u00e9s",
+        "shortname": "MIR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 187,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/mirandes.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 41,
+        "slug": "real-zaragoza",
+        "name": "Real Zaragoza SAD",
+        "nickname": "Real Zaragoza",
+        "boundname": "Real Zaragoza",
+        "shortname": "ZAR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 201,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/zaragoza.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Municipal de Anduva"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93078,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - CD Eldense - FC Cartagena - 3",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cd-eldense-fc-cartagena-3",
+      "date": "2024-09-01T17:00:00+00:00",
+      "time": "2024-09-01T17:00:00+00:00",
+      "hashtag": "EldenseCartagena",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 962,
+        "slug": "eldense",
+        "name": "Club Deportivo Eldense",
+        "nickname": "CD Eldense",
+        "boundname": "CD Eldense",
+        "shortname": "ELD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 727016,
+          "url": "https://assets.laliga.com/assets/2023/09/28/medium/58b0ce20fa615378dfe4d03ab2ce063e.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 62,
+        "slug": "cartagena",
+        "name": "FC Cartagena",
+        "nickname": "FC Cartagena",
+        "boundname": "FC Cartagena",
+        "shortname": "CAR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 580954,
+          "url": "https://assets.laliga.com/assets/2022/02/11/medium/1628caa9b2002a11e564eb84b3677f78.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Municipal Nuevo Pepico Amat"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93073,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - SD Eibar - Levante UD - 3",
+      "slug": "temporada-2024-2025-laliga-hypermotion-sd-eibar-levante-ud-3",
+      "date": "2024-09-02T17:00:00+00:00",
+      "time": "2024-09-02T17:00:00+00:00",
+      "hashtag": "EibarLevante",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 27,
+        "slug": "sd-eibar",
+        "name": "Sociedad Deportiva Eibar SAD",
+        "nickname": "SD Eibar",
+        "boundname": "SD Eibar",
+        "shortname": "EIB",
+        "sprite_status": "created",
+        "shield": {
+          "id": 173,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/eibar.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 11,
+        "slug": "levante-ud",
+        "name": "Levante Uni\u00f3n Deportiva SAD",
+        "nickname": "Levante UD",
+        "boundname": "Levante UD",
+        "shortname": "LEV",
+        "sprite_status": "created",
+        "shield": {
+          "id": 141,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/levante.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Municipal de Ipurua"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93079,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Elche CF - C\u00f3rdoba CF - 3",
+      "slug": "temporada-2024-2025-laliga-hypermotion-elche-cf-cordoba-cf-3",
+      "date": "2024-09-02T19:30:00+00:00",
+      "time": "2024-09-02T19:30:00+00:00",
+      "hashtag": "ElcheC\u00f3rdoba",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 7,
+        "slug": "elche-c-f",
+        "name": "Elche Club de F\u00fatbol SAD",
+        "nickname": "Elche CF",
+        "boundname": "Elche CF",
+        "shortname": "ELC",
+        "sprite_status": "created",
+        "shield": {
+          "id": 133,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/elche.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 25,
+        "slug": "cordoba-cf",
+        "name": "C\u00f3rdoba Club de F\u00fatbol SAD",
+        "nickname": "C\u00f3rdoba CF",
+        "boundname": "C\u00f3rdoba CF",
+        "shortname": "CCF",
+        "sprite_status": "created",
+        "shield": {
+          "id": 169,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/cordoba.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Mart\u00ednez Valero"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    }
+  ],
+  "jornada-4": [
+    {
+      "id": 93090,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - CD Tenerife - R. Racing Club - 4",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cd-tenerife-r-racing-club-4",
+      "date": "2024-09-06T19:00:00+00:00",
+      "time": "2024-09-06T19:00:00+00:00",
+      "hashtag": "TenerifeRacing",
+      "status": "PreMatch",
+      "note": "*Horario peninsular.",
+      "home_team": {
+        "id": 40,
+        "slug": "cd-tenerife",
+        "name": "Club Deportivo Tenerife SAD",
+        "nickname": "CD Tenerife",
+        "boundname": "CD Tenerife",
+        "shortname": "TEN",
+        "sprite_status": "created",
+        "shield": {
+          "id": 199,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/tenerife.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 49,
+        "slug": "r-racing-club",
+        "name": "Real Racing Club SAD",
+        "nickname": "R. Racing Club",
+        "boundname": "R. Racing Club",
+        "shortname": "RAC",
+        "sprite_status": "created",
+        "shield": {
+          "id": 215,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/racing.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Heliodoro Rodr\u00edguez L\u00f3pez"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93087,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Granada CF - RC Deportivo - 4",
+      "slug": "temporada-2024-2025-laliga-hypermotion-granada-cf-rc-deportivo-4",
+      "date": "2024-09-07T14:15:00+00:00",
+      "time": "2024-09-07T14:15:00+00:00",
+      "hashtag": "GranadaD\u00e9por",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 10,
+        "slug": "granada-cf",
+        "name": "Granada Club de F\u00fatbol SAD",
+        "nickname": "Granada CF",
+        "boundname": "Granada CF",
+        "shortname": "GRA",
+        "sprite_status": "created",
+        "shield": {
+          "id": 660604,
+          "url": "https://assets.laliga.com/assets/2023/01/17/medium/f5db12f3a29fdfd14a0d50337016dc95.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 26,
+        "slug": "rc-deportivo",
+        "name": "Real Club Deportivo de La Coru\u00f1a SAD",
+        "nickname": "RC Deportivo",
+        "boundname": "RC Deportivo",
+        "shortname": "RCD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 171,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/deportivo.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Nuevo Los C\u00e1rmenes"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93085,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - SD Huesca - Burgos CF - 4",
+      "slug": "temporada-2024-2025-laliga-hypermotion-sd-huesca-burgos-cf-4",
+      "date": "2024-09-07T16:30:00+00:00",
+      "time": "2024-09-07T16:30:00+00:00",
+      "hashtag": "HuescaBurgosCF",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 63,
+        "slug": "sd-huesca",
+        "name": "Sociedad Deportiva Huesca SAD",
+        "nickname": "SD Huesca",
+        "boundname": "SD Huesca",
+        "shortname": "HUE",
+        "sprite_status": "created",
+        "shield": {
+          "id": 712642,
+          "url": "https://assets.laliga.com/assets/2023/07/10/medium/33fab7067fb4c797cfb5ce179a045b64.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 53,
+        "slug": "burgos",
+        "name": "Burgos CF",
+        "nickname": "Burgos CF",
+        "boundname": "Burgos CF",
+        "shortname": "BUR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 535425,
+          "url": "https://assets.laliga.com/assets/2021/06/24/medium/8de24d38ab1472bbae1620d36582d7bd.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "El Alcoraz"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93089,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Real Sporting - Real Oviedo - 4",
+      "slug": "temporada-2024-2025-laliga-hypermotion-real-sporting-real-oviedo-4",
+      "date": "2024-09-07T16:30:00+00:00",
+      "time": "2024-09-07T16:30:00+00:00",
+      "hashtag": "RealSportingRealOviedo",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 39,
+        "slug": "real-sporting",
+        "name": "Real Sporting de Gij\u00f3n SAD",
+        "nickname": "Real Sporting",
+        "boundname": "Real Sporting",
+        "shortname": "SPO",
+        "sprite_status": "created",
+        "shield": {
+          "id": 197,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/sporting.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 157,
+        "slug": "real-oviedo",
+        "name": "Real Oviedo SAD",
+        "nickname": "Real Oviedo",
+        "boundname": "Real Oviedo",
+        "shortname": "OVI",
+        "sprite_status": "created",
+        "shield": {
+          "id": 407,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/oviedo.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "El Molin\u00f3n-Enrique Castro \"Quini\""
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93082,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - C\u00f3rdoba CF - M\u00e1laga CF - 4",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cordoba-cf-malaga-cf-4",
+      "date": "2024-09-07T19:00:00+00:00",
+      "time": "2024-09-07T19:00:00+00:00",
+      "hashtag": "C\u00f3rdobaM\u00e1laga",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 25,
+        "slug": "cordoba-cf",
+        "name": "C\u00f3rdoba Club de F\u00fatbol SAD",
+        "nickname": "C\u00f3rdoba CF",
+        "boundname": "C\u00f3rdoba CF",
+        "shortname": "CCF",
+        "sprite_status": "created",
+        "shield": {
+          "id": 169,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/cordoba.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 12,
+        "slug": "malaga-cf",
+        "name": "M\u00e1laga Club de F\u00fatbol SAD",
+        "nickname": "M\u00e1laga CF",
+        "boundname": "M\u00e1laga CF",
+        "shortname": "MGA",
+        "sprite_status": "created",
+        "shield": {
+          "id": 143,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/malaga.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Municipal Nuevo Arc\u00e1ngel"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93083,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Racing Club Ferrol - CD Mirand\u00e9s - 4",
+      "slug": "temporada-2024-2025-laliga-hypermotion-racing-club-ferrol-cd-mirandes-4",
+      "date": "2024-09-08T12:00:00+00:00",
+      "time": "2024-09-08T12:00:00+00:00",
+      "hashtag": "RacingFerrolMirand\u00e9s",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 204,
+        "slug": "racing-ferrol",
+        "name": "Racing Club de Ferrol",
+        "nickname": "Racing Club Ferrol",
+        "boundname": "Racing Club Ferrol",
+        "shortname": "RCF",
+        "sprite_status": "created",
+        "shield": {
+          "id": 703496,
+          "url": "https://assets.laliga.com/assets/2023/05/31/medium/2a24368d444ad661302ac3cddb4c9d5a.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 34,
+        "slug": "mirandes",
+        "name": "Club Deportivo Mirand\u00e9s SAD",
+        "nickname": "CD Mirand\u00e9s",
+        "boundname": "CD Mirand\u00e9s",
+        "shortname": "MIR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 187,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/mirandes.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio A Malata"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93081,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - FC Cartagena - Levante UD - 4",
+      "slug": "temporada-2024-2025-laliga-hypermotion-fc-cartagena-levante-ud-4",
+      "date": "2024-09-08T14:15:00+00:00",
+      "time": "2024-09-08T14:15:00+00:00",
+      "hashtag": "CartagenaLevante",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 62,
+        "slug": "cartagena",
+        "name": "FC Cartagena",
+        "nickname": "FC Cartagena",
+        "boundname": "FC Cartagena",
+        "shortname": "CAR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 580954,
+          "url": "https://assets.laliga.com/assets/2022/02/11/medium/1628caa9b2002a11e564eb84b3677f78.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 11,
+        "slug": "levante-ud",
+        "name": "Levante Uni\u00f3n Deportiva SAD",
+        "nickname": "Levante UD",
+        "boundname": "Levante UD",
+        "shortname": "LEV",
+        "sprite_status": "created",
+        "shield": {
+          "id": 141,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/levante.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Municipal Cartagonova"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93084,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - CD Eldense - UD Almer\u00eda - 4",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cd-eldense-ud-almeria-4",
+      "date": "2024-09-08T16:30:00+00:00",
+      "time": "2024-09-08T16:30:00+00:00",
+      "hashtag": "EldenseAlmer\u00eda",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 962,
+        "slug": "eldense",
+        "name": "Club Deportivo Eldense",
+        "nickname": "CD Eldense",
+        "boundname": "CD Eldense",
+        "shortname": "ELD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 727016,
+          "url": "https://assets.laliga.com/assets/2023/09/28/medium/58b0ce20fa615378dfe4d03ab2ce063e.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 1,
+        "slug": "ud-almeria",
+        "name": "Uni\u00f3n Deportiva Almer\u00eda SAD",
+        "nickname": "UD Almer\u00eda",
+        "boundname": "UD Almer\u00eda",
+        "shortname": "ALM",
+        "sprite_status": "created",
+        "shield": {
+          "id": 121,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/almeria.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Municipal Nuevo Pepico Amat"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93088,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Real Zaragoza - Elche CF - 4",
+      "slug": "temporada-2024-2025-laliga-hypermotion-real-zaragoza-elche-cf-4",
+      "date": "2024-09-08T16:30:00+00:00",
+      "time": "2024-09-08T16:30:00+00:00",
+      "hashtag": "RealZaragozaElche",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 41,
+        "slug": "real-zaragoza",
+        "name": "Real Zaragoza SAD",
+        "nickname": "Real Zaragoza",
+        "boundname": "Real Zaragoza",
+        "shortname": "ZAR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 201,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/zaragoza.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 7,
+        "slug": "elche-c-f",
+        "name": "Elche Club de F\u00fatbol SAD",
+        "nickname": "Elche CF",
+        "boundname": "Elche CF",
+        "shortname": "ELC",
+        "sprite_status": "created",
+        "shield": {
+          "id": 133,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/elche.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio de La Romareda"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93080,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Albacete BP - SD Eibar - 4",
+      "slug": "temporada-2024-2025-laliga-hypermotion-albacete-bp-sd-eibar-4",
+      "date": "2024-09-09T19:00:00+00:00",
+      "time": "2024-09-09T19:00:00+00:00",
+      "hashtag": "AlbaceteBPEibar",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 47,
+        "slug": "albacete-bp",
+        "name": "Albacete Balompi\u00e9 SAD",
+        "nickname": "Albacete BP",
+        "boundname": "Albacete BP",
+        "shortname": "ALB",
+        "sprite_status": "created",
+        "shield": {
+          "id": 211,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/albacete.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 27,
+        "slug": "sd-eibar",
+        "name": "Sociedad Deportiva Eibar SAD",
+        "nickname": "SD Eibar",
+        "boundname": "SD Eibar",
+        "shortname": "EIB",
+        "sprite_status": "created",
+        "shield": {
+          "id": 173,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/eibar.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Carlos Belmonte"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93086,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - CD Castell\u00f3n - C\u00e1diz CF - 4",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cd-castellon-cadiz-cf-4",
+      "date": "2024-09-09T19:00:00+00:00",
+      "time": "2024-09-09T19:00:00+00:00",
+      "hashtag": "Castell\u00f3nC\u00e1diz",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 158,
+        "slug": "cd-castellon",
+        "name": "CD Castell\u00f3n",
+        "nickname": "CD Castell\u00f3n",
+        "boundname": "CD Castell\u00f3n",
+        "shortname": "CAS",
+        "sprite_status": "created",
+        "shield": {
+          "id": 405804,
+          "url": "https://assets.laliga.com/assets/2019/11/18/medium/0cb9fb4e471b8fe16fe9f6f193188505.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 162,
+        "slug": "cadiz-cf",
+        "name": "C\u00e1diz Club de F\u00fatbol SAD",
+        "nickname": "C\u00e1diz CF",
+        "boundname": "C\u00e1diz CF",
+        "shortname": "CAD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 411,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/cadiz.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Municipal de Castalia"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    }
+  ],
+  "jornada-5": [
+    {
+      "id": 93091,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - UD Almer\u00eda - CD Castell\u00f3n - 5",
+      "slug": "temporada-2024-2025-laliga-hypermotion-ud-almeria-cd-castellon-5",
+      "date": "2024-09-15T00:00:00+00:00",
+      "hashtag": "Almer\u00edaCastell\u00f3n",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 1,
+        "slug": "ud-almeria",
+        "name": "Uni\u00f3n Deportiva Almer\u00eda SAD",
+        "nickname": "UD Almer\u00eda",
+        "boundname": "UD Almer\u00eda",
+        "shortname": "ALM",
+        "sprite_status": "created",
+        "shield": {
+          "id": 121,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/almeria.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 158,
+        "slug": "cd-castellon",
+        "name": "CD Castell\u00f3n",
+        "nickname": "CD Castell\u00f3n",
+        "boundname": "CD Castell\u00f3n",
+        "shortname": "CAS",
+        "sprite_status": "created",
+        "shield": {
+          "id": 405804,
+          "url": "https://assets.laliga.com/assets/2019/11/18/medium/0cb9fb4e471b8fe16fe9f6f193188505.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "UD Almer\u00eda Stadium"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93092,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Burgos CF - Real Zaragoza - 5",
+      "slug": "temporada-2024-2025-laliga-hypermotion-burgos-cf-real-zaragoza-5",
+      "date": "2024-09-15T00:00:00+00:00",
+      "hashtag": "BurgosCFRealZaragoza",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 53,
+        "slug": "burgos",
+        "name": "Burgos CF",
+        "nickname": "Burgos CF",
+        "boundname": "Burgos CF",
+        "shortname": "BUR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 535425,
+          "url": "https://assets.laliga.com/assets/2021/06/24/medium/8de24d38ab1472bbae1620d36582d7bd.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 41,
+        "slug": "real-zaragoza",
+        "name": "Real Zaragoza SAD",
+        "nickname": "Real Zaragoza",
+        "boundname": "Real Zaragoza",
+        "shortname": "ZAR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 201,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/zaragoza.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "El Plant\u00edo"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93093,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - C\u00e1diz CF - Racing Club Ferrol - 5",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cadiz-cf-racing-club-ferrol-5",
+      "date": "2024-09-15T00:00:00+00:00",
+      "hashtag": "C\u00e1dizRacingFerrol",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 162,
+        "slug": "cadiz-cf",
+        "name": "C\u00e1diz Club de F\u00fatbol SAD",
+        "nickname": "C\u00e1diz CF",
+        "boundname": "C\u00e1diz CF",
+        "shortname": "CAD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 411,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/cadiz.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 204,
+        "slug": "racing-ferrol",
+        "name": "Racing Club de Ferrol",
+        "nickname": "Racing Club Ferrol",
+        "boundname": "Racing Club Ferrol",
+        "shortname": "RCF",
+        "sprite_status": "created",
+        "shield": {
+          "id": 703496,
+          "url": "https://assets.laliga.com/assets/2023/05/31/medium/2a24368d444ad661302ac3cddb4c9d5a.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Nuevo Mirandilla"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93094,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - C\u00f3rdoba CF - RC Deportivo - 5",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cordoba-cf-rc-deportivo-5",
+      "date": "2024-09-15T00:00:00+00:00",
+      "hashtag": "C\u00f3rdobaD\u00e9por",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 25,
+        "slug": "cordoba-cf",
+        "name": "C\u00f3rdoba Club de F\u00fatbol SAD",
+        "nickname": "C\u00f3rdoba CF",
+        "boundname": "C\u00f3rdoba CF",
+        "shortname": "CCF",
+        "sprite_status": "created",
+        "shield": {
+          "id": 169,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/cordoba.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 26,
+        "slug": "rc-deportivo",
+        "name": "Real Club Deportivo de La Coru\u00f1a SAD",
+        "nickname": "RC Deportivo",
+        "boundname": "RC Deportivo",
+        "shortname": "RCD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 171,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/deportivo.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Municipal Nuevo Arc\u00e1ngel"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93095,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - SD Eibar - CD Tenerife - 5",
+      "slug": "temporada-2024-2025-laliga-hypermotion-sd-eibar-cd-tenerife-5",
+      "date": "2024-09-15T00:00:00+00:00",
+      "hashtag": "EibarTenerife",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 27,
+        "slug": "sd-eibar",
+        "name": "Sociedad Deportiva Eibar SAD",
+        "nickname": "SD Eibar",
+        "boundname": "SD Eibar",
+        "shortname": "EIB",
+        "sprite_status": "created",
+        "shield": {
+          "id": 173,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/eibar.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 40,
+        "slug": "cd-tenerife",
+        "name": "Club Deportivo Tenerife SAD",
+        "nickname": "CD Tenerife",
+        "boundname": "CD Tenerife",
+        "shortname": "TEN",
+        "sprite_status": "created",
+        "shield": {
+          "id": 199,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/tenerife.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Municipal de Ipurua"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93096,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Elche CF - Granada CF - 5",
+      "slug": "temporada-2024-2025-laliga-hypermotion-elche-cf-granada-cf-5",
+      "date": "2024-09-15T00:00:00+00:00",
+      "hashtag": "ElcheGranada",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 7,
+        "slug": "elche-c-f",
+        "name": "Elche Club de F\u00fatbol SAD",
+        "nickname": "Elche CF",
+        "boundname": "Elche CF",
+        "shortname": "ELC",
+        "sprite_status": "created",
+        "shield": {
+          "id": 133,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/elche.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 10,
+        "slug": "granada-cf",
+        "name": "Granada Club de F\u00fatbol SAD",
+        "nickname": "Granada CF",
+        "boundname": "Granada CF",
+        "shortname": "GRA",
+        "sprite_status": "created",
+        "shield": {
+          "id": 660604,
+          "url": "https://assets.laliga.com/assets/2023/01/17/medium/f5db12f3a29fdfd14a0d50337016dc95.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Mart\u00ednez Valero"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93097,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - R. Racing Club - Real Sporting - 5",
+      "slug": "temporada-2024-2025-laliga-hypermotion-r-racing-club-real-sporting-5",
+      "date": "2024-09-15T00:00:00+00:00",
+      "hashtag": "RacingRealSporting",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 49,
+        "slug": "r-racing-club",
+        "name": "Real Racing Club SAD",
+        "nickname": "R. Racing Club",
+        "boundname": "R. Racing Club",
+        "shortname": "RAC",
+        "sprite_status": "created",
+        "shield": {
+          "id": 215,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/racing.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 39,
+        "slug": "real-sporting",
+        "name": "Real Sporting de Gij\u00f3n SAD",
+        "nickname": "Real Sporting",
+        "boundname": "Real Sporting",
+        "shortname": "SPO",
+        "sprite_status": "created",
+        "shield": {
+          "id": 197,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/sporting.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "El Sardinero"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93098,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - CD Mirand\u00e9s - Albacete BP - 5",
+      "slug": "temporada-2024-2025-laliga-hypermotion-cd-mirandes-albacete-bp-5",
+      "date": "2024-09-15T00:00:00+00:00",
+      "hashtag": "Mirand\u00e9sAlbaceteBP",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 34,
+        "slug": "mirandes",
+        "name": "Club Deportivo Mirand\u00e9s SAD",
+        "nickname": "CD Mirand\u00e9s",
+        "boundname": "CD Mirand\u00e9s",
+        "shortname": "MIR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 187,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/mirandes.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 47,
+        "slug": "albacete-bp",
+        "name": "Albacete Balompi\u00e9 SAD",
+        "nickname": "Albacete BP",
+        "boundname": "Albacete BP",
+        "shortname": "ALB",
+        "sprite_status": "created",
+        "shield": {
+          "id": 211,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/albacete.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Municipal de Anduva"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93099,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Real Oviedo - FC Cartagena - 5",
+      "slug": "temporada-2024-2025-laliga-hypermotion-real-oviedo-fc-cartagena-5",
+      "date": "2024-09-15T00:00:00+00:00",
+      "hashtag": "RealOviedoCartagena",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 157,
+        "slug": "real-oviedo",
+        "name": "Real Oviedo SAD",
+        "nickname": "Real Oviedo",
+        "boundname": "Real Oviedo",
+        "shortname": "OVI",
+        "sprite_status": "created",
+        "shield": {
+          "id": 407,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/oviedo.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 62,
+        "slug": "cartagena",
+        "name": "FC Cartagena",
+        "nickname": "FC Cartagena",
+        "boundname": "FC Cartagena",
+        "shortname": "CAR",
+        "sprite_status": "created",
+        "shield": {
+          "id": 580954,
+          "url": "https://assets.laliga.com/assets/2022/02/11/medium/1628caa9b2002a11e564eb84b3677f78.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Carlos Tartiere"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93100,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - Levante UD - CD Eldense - 5",
+      "slug": "temporada-2024-2025-laliga-hypermotion-levante-ud-cd-eldense-5",
+      "date": "2024-09-15T00:00:00+00:00",
+      "hashtag": "LevanteEldense",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 11,
+        "slug": "levante-ud",
+        "name": "Levante Uni\u00f3n Deportiva SAD",
+        "nickname": "Levante UD",
+        "boundname": "Levante UD",
+        "shortname": "LEV",
+        "sprite_status": "created",
+        "shield": {
+          "id": 141,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/levante.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 962,
+        "slug": "eldense",
+        "name": "Club Deportivo Eldense",
+        "nickname": "CD Eldense",
+        "boundname": "CD Eldense",
+        "shortname": "ELD",
+        "sprite_status": "created",
+        "shield": {
+          "id": 727016,
+          "url": "https://assets.laliga.com/assets/2023/09/28/medium/58b0ce20fa615378dfe4d03ab2ce063e.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "Estadio Ciutat de Val\u00e8ncia"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    },
+    {
+      "id": 93101,
+      "name": "Temporada 2024/2025 - LALIGA HYPERMOTION - M\u00e1laga CF - SD Huesca - 5",
+      "slug": "temporada-2024-2025-laliga-hypermotion-malaga-cf-sd-huesca-5",
+      "date": "2024-09-15T00:00:00+00:00",
+      "hashtag": "M\u00e1lagaHuesca",
+      "status": "PreMatch",
+      "home_team": {
+        "id": 12,
+        "slug": "malaga-cf",
+        "name": "M\u00e1laga Club de F\u00fatbol SAD",
+        "nickname": "M\u00e1laga CF",
+        "boundname": "M\u00e1laga CF",
+        "shortname": "MGA",
+        "sprite_status": "created",
+        "shield": {
+          "id": 143,
+          "url": "https://assets.laliga.com/assets/2019/06/07/medium/malaga.png"
+        },
+        "competitions": []
+      },
+      "away_team": {
+        "id": 63,
+        "slug": "sd-huesca",
+        "name": "Sociedad Deportiva Huesca SAD",
+        "nickname": "SD Huesca",
+        "boundname": "SD Huesca",
+        "shortname": "HUE",
+        "sprite_status": "created",
+        "shield": {
+          "id": 712642,
+          "url": "https://assets.laliga.com/assets/2023/07/10/medium/33fab7067fb4c797cfb5ce179a045b64.png"
+        },
+        "competitions": []
+      },
+      "venue": {
+        "name": "La Rosaleda"
+      },
+      "subscription": {
+        "id": 354,
+        "name": "LALIGA HYPERMOTION",
+        "slug": "laliga-hypermotion-2024",
+        "teams": [],
+        "rounds": []
+      },
+      "is_brand_day": false,
+      "temperature": {
+        "enabled_historical": false,
+        "enabled_forecast": false
+      }
+    }
+  ]
+}
